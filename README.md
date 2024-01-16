@@ -1,5 +1,5 @@
 # Socials
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMi1esian&count_bg=%23FFEB18&title_bg=%23FBD11D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tistory's Badge](https://github-readme-tistory-card.vercel.app/api/badge?name=TISTORY)](https://wsh6922.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMi1esian&count_bg=%23FFEB18&title_bg=%23FBD11D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tistory](https://img.shields.io/badge/Tistory-EC4815?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
