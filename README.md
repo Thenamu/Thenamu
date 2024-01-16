@@ -1,5 +1,5 @@
 # Socials
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMi1esian&count_bg=%23FFEB18&title_bg=%23FBD11D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tistory](https://img.shields.io/badge/Tistory-EC4815?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMi1esian&count_bg=%23FFEB18&title_bg=%23FBD11D&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) [![Tistory](https://img.shields.io/badge/Tistory-EC4815?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/) [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
