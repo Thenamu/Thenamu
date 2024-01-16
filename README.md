@@ -6,10 +6,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
 
 ## DevOps
-<img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"/>
 
 ## Tools
-<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/> 
+<img src="https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white"/> <img src="https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white"/>
+
+## Collaboration
+<img src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white"/>
 
 <!-- ![]() -->
 <!-- ### Hi there 👋 -->
