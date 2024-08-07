@@ -1,5 +1,5 @@
 ## Socials
-[![Tistory](https://img.shields.io/badge/Tistory-FF4A5A?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
+[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
