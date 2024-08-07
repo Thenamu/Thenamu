@@ -21,10 +21,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
-## Tools
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white) ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white) ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse&logoColor=white)
+### 🌖 Tools
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?logo=intellijidea&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse&logoColor=white)
 
-## Collaboration
+### Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 <!-- <img src=""> -->
