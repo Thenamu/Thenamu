@@ -26,7 +26,7 @@
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visualstudiocode&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse&logoColor=white)
 
-### Collaboration
+### 🌠 Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
 <!-- <img src=""> -->
