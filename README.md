@@ -10,6 +10,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
 -->
 
 ### 🌑 Back-end
