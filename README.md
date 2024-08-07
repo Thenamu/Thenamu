@@ -1,14 +1,14 @@
 ## 🌐 Socials
-[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
-[![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
+[![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
+[![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
 ## 💻 Tech Stack
 ### 🌕 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ### 🌑 Back-end
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white)
 ![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?logo=SpringSecurity&logoColor=white)
