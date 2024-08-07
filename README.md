@@ -15,7 +15,7 @@
 ![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-BDAD79?logo=jpa&logoColor=white)
 
-## 🌗 DevOps
+### 🌗 DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
