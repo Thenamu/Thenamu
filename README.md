@@ -1,15 +1,15 @@
-## Socials
+## 🌐 Socials
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
-# Tech Stack 
-## Back-end
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
-
-## Front-end
+## 💻 Tech Stack
+### 🌕 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+### 🌑 Back-end
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 
 ## DevOps
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
