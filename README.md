@@ -29,7 +29,7 @@
 ### 🌠 Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
 
-##
+#
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
 <!-- <img src=""> -->
