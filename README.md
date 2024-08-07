@@ -13,6 +13,7 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?logo=springboot&logoColor=white)
 ![SpringMVC](https://img.shields.io/badge/SpringMVC-6DB33F?logo=spring&logoColor=white)
+![SpringSecurity](https://img.shields.io/badge/SpringSecurity-6DB33F?logo=SpringSecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-BDAD79?logo=jpa&logoColor=white)
 
 ### 🌗 DevOps
