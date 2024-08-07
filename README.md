@@ -18,6 +18,7 @@
 ### 🌗 DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
+![!Postman](https://img.shields.io/badge/Postman-FF6C37?logo=Postman&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)
 
