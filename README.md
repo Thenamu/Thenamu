@@ -6,7 +6,8 @@
 
 ## 💻 Tech Stack
 ### 🌕 Front-end
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ### 🌑 Back-end
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white)
