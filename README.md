@@ -2,8 +2,6 @@
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?style=flat&logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
-
 ## 💻 Tech Stack
 ### 🌕 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -30,6 +28,8 @@
 
 ### 🌠 Collaboration
 ![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
 <!-- <img src=""> -->
 
