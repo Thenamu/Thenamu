@@ -1,17 +1,11 @@
-## 🌐 Socials
+<!-- ## 🌐 Socials
 [![Tistory](https://img.shields.io/badge/Tistory-FF5A4A?logo=Tistory&logoColor=white)](https://wsh6922.tistory.com/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@milesian/posts)
 
 ## 💻 Tech Stack
 ### 🌕 Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-<!--
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
--->
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white) 
 
 ### 🌑 Back-end
 ![Java](https://img.shields.io/badge/Java-007396?logo=Java&logoColor=white)
@@ -33,7 +27,14 @@
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?logo=Eclipse&logoColor=white)
 
 ### 🌠 Collaboration
-![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white) -->
+
+<!--
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=React&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=Python&logoColor=white)
+-->
 
 #
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
