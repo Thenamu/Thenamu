@@ -39,8 +39,12 @@
 #
 ![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=wsh6922)
 
+<!--
 #
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
+-->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thenamu&show_icons=true&theme=radical)
 
 <!--
 profile-3d-contrib/profile-green-animate.svg
