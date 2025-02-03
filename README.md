@@ -40,8 +40,8 @@
 #
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 -->
-#
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenamu&layout=compact&theme=tokyonight)
+<!-- #
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thenamu&layout=compact&theme=tokyonight) -->
 
 #
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thenamu&show_icons=true&theme=radical)
